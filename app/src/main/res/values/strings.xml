@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Parcial2Activity</string>
+
+    <string name="home_titulo">FRAGMENTOS</string>
+    <string name="home_boton_volver">VOLVER</string>
+    <string name="home_boton_tiempo">TIEMPO</string>
+    <string name="home_boton_imagen">IMAGEN</string>
+
+    <string name="text_titulo">ESTUDIANTES</string>
+    <string name="text_subtitulo">Visualizacion de Estudiantes</string>
+    <string name="ini_bonton_add">AGREGAR ESTUDIANTES</string>
+    <string name="ini_boton_fragmentos">FRAGMENTOS</string>
+
+    <string name="dialog_titulo">Agregar Estudiante</string>
+    <string name="dialog_cc_estudiante">Cédula</string>
+    <string name="dialog_name_estudiante">Nombres Completos</string>
+    <string name="dialog_Apell_estudiante">Apellidos Completos</string>
+    <string name="dialog_cel_estudiante">Teléfono</string>
+    <string name="dialog_boton_estudiante">Agregar</string>
+
+    <string name="image_titulo">Fragmento de ImagenView</string>
+    <string name="frag_imagen_label">IMAGEN</string>
+    <string name="frag_imagen_button">CAMBIAR IMAGEN</string>
+
+    <string name="tiempo_titulo">Fragmento de TimePickerDialog</string>
+    <string name="frag_tiempo_label">TIEMPO</string>
+    <string name="frag_tiempo_value">00:00</string>
+    <string name="frag_tiempo_button">CAMBIAR TIEMPO</string>
+
+    <string name="label_cc_estudiante">Cedula:</string>
+    <string name="label_nombre_estudiante">Nombre:</string>
+    <string name="label_Apellido_Estudiante">Apellidos:</string>
+    <string name="label_Celular_Estudiante">Teléfono:</string>
+
+    <string name="titulo_eliminar_estudiante">Eliminar estudiante</string>
+    <string name="subtitulo_eliminar_estudiante">Estas seguro que quieres eliminar este estudiante</string>
+    <string name="agregar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="validacion_adicionar_estudiantes">Todos los campos son obligatorios</string>
+
+</resources>
